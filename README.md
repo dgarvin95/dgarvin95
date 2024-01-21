@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, SQL, and R.
 - 💞️ I’m looking to collaborate on creating anything that can help me gain experience. 
 - 📫 How to reach me not sure yet.
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I thrive in research labs.
 
 <!---
